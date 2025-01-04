@@ -1,11 +1,13 @@
-# PCB Ordering Guide.
+<!-- markdownlint-disable MD033 -->
+# PCB Ordering Guide
+
 How to order this board from a PCB vendor - helpful info if it's your first time ordering a PCB.
 
 Most PCB vendors have a similar ordering process. I use [JLCPCB](https://jlcpcb.com/) because they are usually the most cost effective. I've had good luck with [Elecrow](https://www.elecrow.com/) too. [You can find PCB price comparison tools online.](https://pcbshopper.com/) When comparing pricing, the board dimensions are  143mm x 93mm. (Usually anything under 100x100mm is really cheap - so be sure to use the 143x93 dimensions when pricing).
 
-Usually the minimum quantity to order is 5 boards. 
+Usually the minimum quantity to order is 5 boards.
 
-The production files are known as "gerbers", and they are usually uploaded as a `.zip` file. (It's essentially a collection of files for each layer of the board, like holes, graphics, traces etc.) 
+The production files are known as "gerbers", and they are usually uploaded as a `.zip` file. (It's essentially a collection of files for each layer of the board, like holes, graphics, traces etc.)
 
 In this repo, the gerber file for the Cantor classic and the Cantor MX can be found under [releases](https://github.com/diepala/cantor/releases).
 
