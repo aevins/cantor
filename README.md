@@ -1,5 +1,8 @@
 <!-- markdownlint-disable MD000 -->
 # Cantor Keyboard
+
+(Forked by [aevins](https://github.com/aevins) - see [upstream](https://github.com/diepala/cantor) for original by [diepala](https://github.com/diepala))
+
 The Cantor keyboard is a 42 key diodeless split keyboard, designed with simplicity in mind. It is inspired on the popular [corne](https://github.com/foostan/crkbd), [ferris](https://github.com/pierrechevalier83/ferris) and [sweep](https://github.com/davidphilipbarr/Sweep) keyboards, aiming to provide a more ergonomic (stronger column stagger) corne-like layout with a simple, easy to assemble and cheap design.
 
 ![Cantor Keyboard](assets/cantor_keyboard.jpg)
@@ -91,13 +94,16 @@ The following times you want to flash the keyboard, it is much simpler thanks to
 
 ## Feedback
 
-If you have build this keyboard, please fill [this form](https://forms.gle/nfJCsei5hyHbjaHn9) to provide feedback. This will help to improve the keyboard design in future revisions.
+If you have built this keyboard, please fill [this form](https://forms.gle/nfJCsei5hyHbjaHn9) to provide feedback. This will help to improve the keyboard design in future revisions.
 
 Also, you can open an issue reporting any problem or feature request.
 
+> [!NOTE]
+> Please see [original](https://github.com/diepala/cantor) for issues - this fork is for my personal development. I will try to address questions/issues if you have them which **specifically** relate to this fork.
+
 ## Support
 
-The development of a keyboard takes time and money. If you like this keyboard a want to support me for the work and to develop future revisions of the keyboard, consider donating:
+The development of a keyboard takes time and money. If you like this keyboard a want to support the original creator for the work and to develop future revisions of the keyboard, consider donating:
 
 PayPal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?hosted_button_id=ZKKE68MCBQ9P6)
 GitHub: [Here](https://github.com/sponsors/diepala)
