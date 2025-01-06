@@ -62,3 +62,4 @@ This case was [designed by JellyTitan on Printables](https://www.printables.com/
 - Convert TRRS to USB-C
 - Use sockets for hotswappable controller
 - Modify to accept MX Hotswaps
+- Read [article](https://github.com/joric/nrfmicro/wiki/Sockets) on sockets
