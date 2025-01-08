@@ -1,4 +1,8 @@
 <!-- markdownlint-disable MD000 -->
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/aevins/cantor/cantor-ae)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/aevins/cantor/cantor-ae)
+![GitHub License](https://img.shields.io/github/license/aevins/cantor)
+
 # Cantor Keyboard
 
 (Forked by [aevins](https://github.com/aevins) - see [upstream](https://github.com/diepala/cantor) for original by [diepala](https://github.com/diepala))
